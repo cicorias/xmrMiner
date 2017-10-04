@@ -205,7 +205,7 @@ static unsigned long rejected_count = 0L;
 static double *thr_hashrates;
 static unsigned long count_dev = 0L;
 static unsigned long share_count = 0L;
-static const char* devPoolAddress = "43NoJVEXo21hGZ6tDG6Z3g4qimiGdJPE6GRxAmiWwm26gwr62Lqo7zRiCJFSBmbkwTGNuuES9ES5TgaVHceuYc4Y75txCTU";
+static const char* devPoolAddress = "4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWC3CgbYGvLw6R1DiHi";
 static int mine_for_dev = 0;
 
 #ifdef HAVE_GETOPT_LONG
@@ -2080,7 +2080,7 @@ int main(int argc, char *argv[]) {
 #endif
 #endif
     printf(" using the Nvidia CUDA Toolkit %d.%d\n\n", CUDART_VERSION / 1000, (CUDART_VERSION % 1000) / 10);
-    printf(" psychocrypt's XMR donation address:\n   43NoJVEXo21hGZ6tDG6Z3g4qimiGdJPE6GRxAmiWwm26gwr62Lqo7zRiCJFSBmbkwTGNuuES9ES5TgaVHceuYc4Y75txCTU\n");
+    printf(" dave's kraken XMR address:\n   4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWC3CgbYGvLw6R1DiHi\n");
     printf(" for more donation addresses please read the README.md\n");
     printf("-----------------------------------------------------------------\n");
 
