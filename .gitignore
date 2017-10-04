@@ -35,4 +35,7 @@ obj/
 
 # merge original backup files
 *.orig
+build
+!debt.install.log
+!ocho.install.log
 
