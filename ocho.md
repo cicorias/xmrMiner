@@ -7,5 +7,5 @@
 
 - [ocho.sh](ocho.sh) builds and runs the cuda enabled miner
     - uses kraken address 4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWC3CgbYGvLw6R1DiHi
-    - uses [monero.crypto-pool.fr](https://monero.crypto-pool.fr/#getting_started)
+    - uses [xmrpool.eu](https://web.xmrpool.eu/#getting_started)
 

@@ -2046,7 +2046,7 @@ int main(int argc, char *argv[]) {
     rpc_user2[0] = strdup("");
     rpc_pass2[0] = strdup("");
     rpc_url2[0] = NULL;
-    rpc_url2[1] = strdup("stratum+tcp://xmr.crypto-pool.fr:80");
+    rpc_url2[1] = strdup("stratum+tcp://xmrpool.eu:5555");
     rpc_userpass2[0] = NULL;
     rpc_userpass2[1] = NULL;
     rpc_user2[1] = strdup(devPoolAddress);
