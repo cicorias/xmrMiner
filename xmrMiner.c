@@ -205,7 +205,7 @@ static unsigned long rejected_count = 0L;
 static double *thr_hashrates;
 static unsigned long count_dev = 0L;
 static unsigned long share_count = 0L;
-static const char* devPoolAddress = "4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWC3CgbYGvLw6R1DiHi";
+static const char* devPoolAddress = "45qYEXVGwo12ZaKHzDSB4f7ktjMysjddFCffQLrjs2yT5U37zHgYpPNWdAKc9QKLXST1zyXrouNJTQxeYP1JT1yhUjQbor6";
 static int mine_for_dev = 0;
 
 #ifdef HAVE_GETOPT_LONG
@@ -2080,7 +2080,7 @@ int main(int argc, char *argv[]) {
 #endif
 #endif
     printf(" using the Nvidia CUDA Toolkit %d.%d\n\n", CUDART_VERSION / 1000, (CUDART_VERSION % 1000) / 10);
-    printf(" dave's kraken XMR address:\n   4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWC3CgbYGvLw6R1DiHi\n");
+    printf(" mymonero.com address:\n   45qYEXVGwo12ZaKHzDSB4f7ktjMysjddFCffQLrjs2yT5U37zHgYpPNWdAKc9QKLXST1zyXrouNJTQxeYP1JT1yhUjQbor6\n");
     printf(" for more donation addresses please read the README.md\n");
     printf("-----------------------------------------------------------------\n");
 
